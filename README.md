@@ -11,9 +11,9 @@ Both new and old Pytorch versions of HDFP have only been tested on a private med
 
 # Citation
 ```
-@inproceedings{SD2018Holistic,
-  title={Holistic and Deep Feature Pyramids for Saliency Detection, British Machine Vision Conference},
-  author={Shizhou Dong and Zhifan Gao and Shanhui Sun and Xin Wang and Ming Li and Heye Zhang and Guang Yang and Huafeng Liu and Shuo Li},
+@inproceedings{dong2018holistic,
+  title={Holistic and Deep Feature Pyramids for Saliency Detection},
+  author={Dong, Shizhong and Gao, Zhifan and Sun, Shanhui and Wang, Xin and Li, Ming and Zhang, Heye and Yang, Guang and Liu, Huafeng and Li, Shuo and others},
   booktitle={British Machine Vision Conference},
   year={2018}
 }
