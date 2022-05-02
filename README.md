@@ -1,5 +1,5 @@
 # Holistic and Deep Feature Pyramids for Saliency Detection (HDFP)
-This is a Pytorch re-implementation for a salient object detection model in the following paper:
+This is a Pytorch re-implementation for a salient object detection model proprosed in the following paper:
 
 [S. Dong, Z. Gao, et al., Holistic and Deep Feature Pyramids for Saliency Detection, British Machine Vision Conference, 2018.](http://bmvc2018.org/contents/papers/0212.pdf)
 
